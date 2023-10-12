@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
- ![header](https://capsule-render.vercel.app/api?type=Transparent&color=000000&height=150&section=header&text=2anvo2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=CC99FF&height=150&section=header&text=2anvo2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
